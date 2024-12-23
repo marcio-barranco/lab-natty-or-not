@@ -1,16 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Como meu gato deve estar se sentindo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia é gerar imagens realistas de gatos expressando alguma emoção ou sentimento. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[Imagen 3](https://deepmind.google/technologies/imagen-3/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Começamos por uma expressão muito comum dos gatos: o do gato feliz, amigável, caracterizada pela cauda apontada para cima, em ângulo de 90 graus. 
+O prompt era algo como `crie uma imagem realista de um gato, visto de perfil, com a cauda apontada para cima.`
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi fácil gerar as imagens com o Imagen 3, mas um tanto difícil ficar 100% satisfeito com elas. Talvez por ter usado uma versão gratuita do Gemini. Foi necessário muitas alterações no prompt, até conseguir uma satisfatória.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A IA ajuda demais, agiliza muito. Mas ainda assim você precisa saber utilizá-la para tirar o melhor proveito.
